@@ -1,0 +1,120 @@
+General Questions:
+
+● What did you learn yesterday/this week?
+    - Contex in next js
+● Talk about your preferred development environment. (OS, Editor,
+Browsers, Tools etc.), give us the reason.
+    - OS Windows, VS Code, Firefox, 
+● Tell me about the biggest mistake you&#39;ve made in [some recent time
+period] and how you would do it differently today. What did you learn
+from this experience?
+● Why we must choose you?
+    -  Because my skills and experience align with the requirements .
+● What is MVC?
+    - Model-View-Controller is a design pattern in software development, especially in web development.
+● What is function, class, and constructor?
+● Describe briefly how HTTPS works.
+● What is JSON?
+    - JavaScript Object Notation is a data interchange format.
+● What is XML?
+    - eXtensible Markup Language is a text-based data format for structuring and representing data.
+
+
+
+Basic Questions:
+
+● Why did you want to be a software developer / engineer?
+● Describe the software development process.
+● What projects are you working personally?
+    - Develop system for sync data from omnichannel to Erp
+● What projects have you completed till now?
+    - RCTIPlus, CMS RCTIads, CMS News RCTIPlus, System Sync data, Dashbord monitoring system sync data, Indoteknik, 
+● What is the biggest problem you have faced in your projects and how do you solve it?
+    - connect to api all marketplace. - exlore the documment
+● Why did the project fail?
+● Which design patterns have you used and in what situations?
+● What is the difference between computer software and computer program?
+● What are the 3 principles to simplify your life?
+    - doing the right think, in the right place and the right time.
+● What language do you prefer while writing complex algorithm?
+    - for now php and JavaScript
+● Which are important tools to test the quality of your codes?
+● What is the difference between local and global variable?
+    - local variable is defined for specific function, global variable is defined at the top lavel program so is accessible from anywhere.
+● How can you debug a system in production environment, while it is being used?
+● How do you design scalable system?
+● What are the advantages of golang?
+● Which programming language works best for you, and explain why?
+    - PHP and JavaScript
+    - PHP is a widely-used server-side programming language that is popular in web development.
+    - JavaScript is a client-side programming language that underlies the logic and interactions on many modern websites and web applications.
+
+
+MySQL Questions:
+
+● What is the difference between MyISAM and InnoDB?
+    - MyISAM does not support transactions. InnoDB supports transactions.
+● What is InnoDB buffer pool?
+● What is the command for print the query process list in mysql?
+    -SHOW PROCESSLIST;
+● What you will do when you found your table is marked as corrupt?
+● How to export database/tables in mysql?
+    - using phpmyadmin
+        Open phpMyAdmin in your web browser.
+        Select the database you want to export from the left sidebar.
+        Click the "Export" tab.
+        Choose the export method (Quick, Custom, etc.) and format (SQL, CSV, etc.).
+        Optionally, select specific tables to export or export the entire database.
+        Click the "Go" button to start the export process, and the SQL file will be downloaded to your computer.
+● How to import database/tables in mysql?
+    - using phpmyadmin
+        Open phpMyAdmin in your web browser.
+        Select the database you want to import into from the left sidebar.
+        Click on the "Import" tab.
+        Choose the SQL file you want to import.
+        Click the "Start Import" button to begin the import process.
+
+● What is the difference between a left and a right join?
+    - left join -> return all rows from the left table, and match the rows from the right table.
+    - right join -> retrun all rows from the right table, and the match row from the left join.
+● What is union function for?
+    - is used for combine the result sert of two or more select queries into a single result.
+● Give sample for query the date today + 5 days ahead
+    - SELECT DATA_DATE(CURRENT(), INTERVAL 5 DAY) AS date;
+● Give sample for query data that was inserted more than 5 minutes ago
+    - SELECT * FROM your_table WHERE TIMESTAMPDIFF(MINUTE, your_table.timestamp_column, CURRENT_TIMESTAMP()) > 5;
+● Give sample for query data using timezone convert from GMT+7 to GMT+3
+
+
+Advance Questions:
+
+● Which web server did you prefer? Tell us the reason?
+● What is memory DB and what it’s used for? And give us some
+samples.
+● Estimate how long it takes to sort 1 trillion numbers?
+● How did you measure the hardware requirements for your application?
+● What you will choose to use for message queuing system? What’s the
+technology that you will involve?
+● How to maximize the web server performance?
+● When you have to develop client-server application, what kind of
+protocol that you will use to communicate between those two? And
+what is the format of data that you prefer to use for transfer?
+● How you find out the user agent name?
+● What’s the advantage and disadvantage between asynchronous and
+synchronous process?
+● How to make multi-threading in PHP/Linux environment?
+● What kind of encryption that you prefer to use to hide the secret string?
+● If you have 30 million records in one day, how you will design your
+database structure?
+
+
+Fun Questions:
+● Tell me what you will do when you lost all your source code?
+● If you were stuck on a desert island with only 5 command-line utilities,
+which would you choose?
+● You come across a random computer and it appears to be a command
+console for the universe. What is the first thing you type?
+● Tell me about a creative way that you&#39;ve used SSH?
+● You have deleted by error a running script, what could you do to
+restore it?
+● What will happen on 19 January 2038?
