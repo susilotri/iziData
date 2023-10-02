@@ -24,7 +24,9 @@ from this experience?
 Basic Questions:
 
 ● Why did you want to be a software developer / engineer?
+    - I never dreamed of becoming a software developer; I was simply interested in computers because my highest grades in high school were in computer science.
 ● Describe the software development process.
+    - Planning, Analysis, Implemtation, Testing, Maintenance 
 ● What projects are you working personally?
     - Develop system for sync data from omnichannel to Erp
 ● What projects have you completed till now?
@@ -89,32 +91,27 @@ MySQL Questions:
 Advance Questions:
 
 ● Which web server did you prefer? Tell us the reason?
-● What is memory DB and what it’s used for? And give us some
-samples.
+● What is memory DB and what it’s used for? And give us some samples.
 ● Estimate how long it takes to sort 1 trillion numbers?
 ● How did you measure the hardware requirements for your application?
 ● What you will choose to use for message queuing system? What’s the
 technology that you will involve?
 ● How to maximize the web server performance?
-● When you have to develop client-server application, what kind of
-protocol that you will use to communicate between those two? And
+● When you have to develop client-server application, what kind of protocol that you will use to communicate between those two? And
 what is the format of data that you prefer to use for transfer?
 ● How you find out the user agent name?
-● What’s the advantage and disadvantage between asynchronous and
-synchronous process?
+● What’s the advantage and disadvantage between asynchronous and synchronous process?
 ● How to make multi-threading in PHP/Linux environment?
 ● What kind of encryption that you prefer to use to hide the secret string?
-● If you have 30 million records in one day, how you will design your
-database structure?
+    - bcrypt
+● If you have 30 million records in one day, how you will design your database structure?
 
 
 Fun Questions:
 ● Tell me what you will do when you lost all your source code?
-● If you were stuck on a desert island with only 5 command-line utilities,
-which would you choose?
-● You come across a random computer and it appears to be a command
-console for the universe. What is the first thing you type?
-● Tell me about a creative way that you&#39;ve used SSH?
-● You have deleted by error a running script, what could you do to
-restore it?
+    - ReClone from git
+● If you were stuck on a desert island with only 5 command-line utilities, which would you choose?
+● You come across a random computer and it appears to be a command console for the universe. What is the first thing you type?
+● Tell me about a creative way that you've used SSH?
+● You have deleted by error a running script, what could you do to restore it?
 ● What will happen on 19 January 2038?
